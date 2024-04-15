@@ -1,0 +1,1 @@
+Output folder for the fbxconverter. Can be modified in the DataProcessing code.
