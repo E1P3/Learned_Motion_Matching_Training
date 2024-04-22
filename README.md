@@ -9,5 +9,7 @@ To obtain the neural networks necessary for the character controller to work, a 
 
 And thats it! All that is left is to import the ONNX models generated in the "Models" folder into UE5 project that uses the LMM character controller, available [here](https://github.com/E1P3/Learned_Motion_Matching_UE5)
 
+The actual demo of a working project is available [here](https://youtu.be/MKmNHGQb4Kk)
+
 have fun :)
 
